@@ -1,2 +1,2 @@
 # Ali-developer
-This is my own web page while coding practise.
+This is my own web page while coding practice.
